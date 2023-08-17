@@ -54,4 +54,4 @@ ignoreErrors = ["error-disable-taxonomy"]
 [[menu.main]]
 url = "/posts"
 name = "Archive"
-weight = 1  
+weight = 1
